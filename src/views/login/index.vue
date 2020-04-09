@@ -1,21 +1,19 @@
 <!--
  * @Author: nichao
  * @Date: 2020-04-04 13:27:42
- * @LastEditTime: 2020-04-09 23:37:34
+ * @LastEditTime: 2020-04-10 00:29:45
  -->
 <template>
   <div>
-    <div>woyaozengjiawenjian</div>
+    合并冲突失败了
   </div>
+
 </template>
 
 <script>
 export default {
-  name: 'Login',
-  data () {
-    return {}
-  },
-  methods: {
-  }
+  name: 'Login'
 }
 </script>
+
+<style scoped></style>
